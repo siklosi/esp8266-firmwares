@@ -43,3 +43,6 @@ https://github.com/cesanta/mongoose-os
 
 ## Audio Reactive LED Strip
 https://github.com/scottlawsonbc/audio-reactive-led-strip
+
+## HTTP IR Blaster
+https://github.com/mdhiggins/ESP8266-HTTP-IR-Blaster
