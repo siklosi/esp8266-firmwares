@@ -46,3 +46,6 @@ https://github.com/scottlawsonbc/audio-reactive-led-strip
 
 ## HTTP IR Blaster
 https://github.com/mdhiggins/ESP8266-HTTP-IR-Blaster
+
+## ESP3D - 3D Printer controll
+https://github.com/luc-github/ESP3D
