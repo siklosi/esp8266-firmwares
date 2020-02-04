@@ -49,3 +49,6 @@ https://github.com/mdhiggins/ESP8266-HTTP-IR-Blaster
 
 ## ESP3D - 3D Printer control
 https://github.com/luc-github/ESP3D
+
+## WLED - Addressable LED controller
+https://github.com/Aircoookie/WLED
